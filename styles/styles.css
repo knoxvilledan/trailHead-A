@@ -1,0 +1,9 @@
+.background-image {
+  background-image: url("C:\Users\knoxv\trailHead-A\images\20170921_195321.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 200px;
+  width: 200px;
+  opacity: 0.1;
+  margin: 20px;
+}
